@@ -1,3 +1,3 @@
 # git-proxy-test
 
-TEST2
+TEST3
