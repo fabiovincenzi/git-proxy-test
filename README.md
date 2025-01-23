@@ -1,4 +1,3 @@
 # git-proxy-test
 
-sfddsfs
-aaa
+TEST2
